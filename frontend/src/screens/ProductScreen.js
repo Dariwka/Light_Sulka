@@ -47,7 +47,7 @@ const ProductScreen = ({ match, history }) => {
         <MessageBox variant="danger"> {error} </MessageBox>
       ) : (
         <>
-          <div className="productscreen__left" key={product._id}>
+          <div className="productscreen__left" key={product.id}>
             <div className="left__image">
               <Carousel infiniteLoop autoPlay>
                 {product.imageUrl &&
