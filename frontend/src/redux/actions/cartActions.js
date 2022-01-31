@@ -2,15 +2,12 @@ import * as actionTypes from "../constants/cartConstants";
 import axios from "axios";
 
 export const addToCart = (id, qty, total) => async (dispatch, getState) => {
-  const { data } = await axios.get(
-    `https://shielded-anchorage-73785.herokuapp.com/api/products/${id}`,
-    {
-      headers: {
-        accessToken: true,
-        "Access-Control-Allow-Headers": "*",
-      },
-    }
-  );
+  const { data } = await axios.get(`/api/products/${id}`, {
+    headers: {
+      accessToken: true,
+      "Access-Control-Allow-Headers": "*",
+    },
+  });
   console.log("total", total);
 
   dispatch({
