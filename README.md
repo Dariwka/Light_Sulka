@@ -16,7 +16,9 @@ A Full-Stack Ecommerce application that use React, Redux, MongoDB, Nodejs, Expre
 
 - [E-Commerce App "Light Sulka"](#e-commerce-app-light-sulka)
   - [Table of Content](#table-of-content)
-  - [Project Links](#project-links) - [Deployed Link: /](#deployed-link-) - [GitHub Repo link: hhttps://github.com/Dariwka/Light_Sulka.git](#github-repo-link-hhttpsgithubcomdariwkalight_sulkagit)
+  - [Project Links](#project-links)
+        - [Deployed Link: /](#deployed-link-)
+        - [GitHub Repo link: https://github.com/Dariwka/Light_Sulka.git](#github-repo-link-httpsgithubcomdariwkalight_sulkagit)
   - [Screenshots-Demo](#screenshots-demo)
   - [Project Objective](#project-objective)
   - [User Story](#user-story)
@@ -34,7 +36,7 @@ A Full-Stack Ecommerce application that use React, Redux, MongoDB, Nodejs, Expre
 
 ##### Deployed Link: /
 
-##### GitHub Repo link: hhttps://github.com/Dariwka/Light_Sulka.git
+##### GitHub Repo link: https://github.com/Dariwka/Light_Sulka.git
 
 ## Screenshots-Demo
 
